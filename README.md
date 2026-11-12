@@ -3,7 +3,7 @@
     <tr>
       <td align="center" valign="middle" width="165">
         <a href="https://www.linkedin.com/in/yogeshpatil2003/">
-          <img src="assets/yogesh-profile.jpg" width="140" height="140" style="border-radius: 50%; border: 3px solid #38BDF8; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.35); object-fit: cover;" alt="Yogesh Anil Patil" />
+          <img src="assets/yogesh-profile.png" width="145" height="145" alt="Yogesh Anil Patil" />
         </a>
       </td>
       <td valign="middle" align="left" style="padding-left: 20px;">
